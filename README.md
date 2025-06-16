@@ -1,4 +1,4 @@
 # ApnaCollege-Demo
 This is my first Git repository.
 <br>
-Author- Pradip Ghosh
+Author- Pradip ghosh
